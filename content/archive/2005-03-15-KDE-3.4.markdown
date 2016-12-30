@@ -1,0 +1,16 @@
+---
+layout: post
+title: KDE 3.4
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/22-KDE-3.4.html"
+s9y_link: http://blog.cryos.net/archives/22-KDE-3.4.html
+date: 2005-03-15 23:58:00.000000000 +00:00
+---
+I have been testing KDE 3.4 on the amd64 platform since beta 1 was released, and started work several weeks ago on testing and keywording the split ebuilds shortly after rc1 was released. It has been a lot of work, with more than 300 ebuilds marked I think. Overall there have been very few issues with it, and I really do think it is a big improvement. I have included a screenshot I took a couple of days ago showing my KDE 3.4 rc1 desktop.<br />
+<center><a href="http://blog.cryos.net/uploads/cryos-desktop.png" target="_blank"><img width='250' height='100' style="border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/cryos-desktop.serendipityThumb.png" alt="KDE 3.4 screenshot" /></a></center><br />
+The only crasher I have discovered is kasteroids - it segfaults on any key press. I have made a patch that works for me, and have put it in our bugzilla and upstreams awaiting review. I have marked all kde-meta dependencies apart from kasteroids and kdegames-meta as ~amd64 in time for release day. Hopefully kasteroids will be ready soon after as it seems a fairly simple bug.<br />
+<br />
+So please test out KDE 3.4 on amd64, give me some feedback and most important of all enjoy it! A big thanks goes out to Dan Armak too for all the work he has put into making the split ebuilds happen.

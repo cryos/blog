@@ -1,0 +1,14 @@
+---
+layout: post
+title: KDE 3.4 Visibility Support Disabled
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/29-KDE-3.4-Visibility-Support-Disabled.html"
+s9y_link: http://blog.cryos.net/archives/29-KDE-3.4-Visibility-Support-Disabled.html
+date: 2005-05-25 19:10:00.000000000 +00:00
+---
+I committed the updates to kde.eclass and kde-meta.eclass to disable visibility support in KDE 3.4. It is broken, and there is no easy way to fix it, for more background see the KDE <a href="http://bugs.kde.org/show_bug.cgi?id=101542">bug</a> and the Gentoo <a href="http://bugs.gentoo.org/show_bug.cgi?id=86898">bug</a>. Made some announcements on the gentoo-dev, gentoo-user and gentoo-amd64 mailing lists. The update is just in time for KDE 3.4.1 which is due out soon, so most people can just wait for that and recompile then.<br />
+<br />
+The main bug that I originally filed is that kasteroids segfaults on any key press when starting a new game, and this is fixed once visibility support is turned off. There could well be other more subtle bugs, but that is the most visible - basically RTTI is broken in certain cases. Hopefully this fix will lead to a more stable desktop experience, along with all the fixes and enhancements 3.4.1 will bring. If you are still using GCC 3.3 it doesn't matter anyway as it has no visibility support.

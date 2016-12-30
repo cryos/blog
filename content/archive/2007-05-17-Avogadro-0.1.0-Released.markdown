@@ -1,0 +1,23 @@
+---
+layout: post
+title: Avogadro 0.1.0 Released
+categories:
+- Gentoo
+- GSoC
+- KDE
+- Linux
+permalink: "/archives/139-Avogadro-0.1.0-Released.html"
+s9y_link: http://blog.cryos.net/archives/139-Avogadro-0.1.0-Released.html
+date: 2007-05-17 11:31:00.000000000 +00:00
+---
+<span><p>I started my Google Summer of Code (TM) work a little early due to the upcoming feature freeze for KDE 4.0. Yesterday the <a href="http://avogadro.sourceforge.net/">Avogadro</a> 0.1.0 beta was released and I have of course added an ebuild for it to Gentoo. Avogadro is at an early stage in development but it is already packed with features and I am really pleased that I have been given the opportunity to work on this project for the summer.<p>
+
+<center><img src="http://blog.cryos.net/uploads/avogadro20070517.png" width="802" height="600" alt="Avogadro 0.1.0 4-methylbenzenethiol snapshot" /></center>
+
+<p>Above is a screen shot of the Avogadro release viewing a 4-methylbenzenethiol molecule (the ones that encapsulate the gold nanoparticles I work with on my PhD project). I have done a lot of work on the navigation and manipulation tools as well as adding the Van der Waals sphere engine. I have been working for the past few weeks on getting the missing features needed to port kalzium to libavogadro into the library.<p>
+
+<p>So I have already made quite a few commits to Avogadro, and yesterday I made my first commit to the KDE SVN repository. I am suffering from split personalities though <img src="http://blog.cryos.net/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> On sourceforge I am cryosuk (due to cryos already being taken) and on KDE SVN I am hanwell (it is KDE policy to use surnames rather than nicknames). So now I have three nicknames/account names in use...</p>
+
+<p>I have been doing some initial work porting kalzium to use libavogadro too. Right now my time is really limited for a number of reasons though and so I have posted my limited progress to the kalzium list. Hopefully I will be able to do a little more this weekend. We need to have it working before the feature freeze in June. I am confident we will be able to do that. More porting is certainly required but I do not think that much more time is needed before we get it rendering again.</p>
+
+<p>We would of course to hear any feedback you have on Avogadro. We also have lots of new features planned, many of which I will be implementing over the summer as my project gets into full swing and I can work on it full time. Time for me to get back to my thesis - hope you like the Avogadro release!</p></span>

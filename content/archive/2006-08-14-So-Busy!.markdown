@@ -1,0 +1,12 @@
+---
+layout: post
+title: So Busy!
+categories:
+- General
+permalink: "/archives/102-So-Busy!.html"
+s9y_link: http://blog.cryos.net/archives/102-So-Busy!.html
+date: 2006-08-14 15:43:26.000000000 +00:00
+---
+I am so busy at the moment! Went diving yesterday at Stoney Cove to do my deep specialty - it was really good to get away from it for a day. I have been doing data analysis all day today, and I was hoping to get more of my thesis written but so far haven't had time to get to that today. I haven't had much time for Gentoo development at all recently - hopefully things will improve a little once I have made some progress with my thesis write up. I can't believe it is mid-August already!!!<br />
+<br />
+Back to the grind stone...

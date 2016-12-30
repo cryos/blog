@@ -1,0 +1,18 @@
+---
+layout: post
+title: Digikam
+categories:
+- FOSS
+- Gentoo
+- Linux
+- Photography
+permalink: "/archives/47-Digikam.html"
+s9y_link: http://blog.cryos.net/archives/47-Digikam.html
+date: 2005-09-16 23:44:44.000000000 +00:00
+---
+I just wanted to share my discovery of <a href="http://www.digikam.org/">Digikam</a> with you all. It is such an amazing program that does all the stuff I had been wanting after rediscovering my love of photography and getting my new Fuji F10. I have also found a good processing lab that will scan my 35mm films to CD for a reasonable fee for the shots I take with my Nikon F80.<br />
+<br />
+<center><img src="http://blog.cryos.net/uploads/digikam-0.8.png" alt="Digikam screenshot" /></center><br />
+I committed bumps to media-gfx/digikam-0.7.4, media-plugins/digikamimageplugins-0.7.4 and also added the corresponding 0.8.0_beta1 versions to p.mask. The betas seem to be working really well though, and it is much snappier due to using sqlite I think amongst other improvements. The screenshot shows the main UI in action with some of my honeymoon snaps.<br />
+<br />
+Add in the digikamimageplugins package, along with the kipi-plugins and you have a really powerful application that can catalogue all of your photos, edit them, touch them up, prepare backups, CDs and print them. I think it is really starting to come into its own with 0.7.4 and 0.8.0_beta1 having many more image manipulation plugins and a pretty amazing feature set. Just emerge digikam digikamimageplugins kipi-plugins to get all the photo editing goodness <img src="http://blog.cryos.net/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" />

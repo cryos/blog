@@ -1,0 +1,18 @@
+---
+layout: post
+title: Gentoo UK 2005
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/21-Gentoo-UK-2005.html"
+s9y_link: http://blog.cryos.net/archives/21-Gentoo-UK-2005.html
+date: 2005-03-13 10:23:00.000000000 +00:00
+---
+Well, I went to the Gentoo UK 2005 conference yesterday. I think in all there were somewhere between 35 to 40 attendees (although I admit to not performing a head count), and that included a good mix of developers and interested users. Unfortunately we got a little lost when we got into Manchester trying to find the venue and so missed the first talk on <a href="http://manchesterwireless.net">manchesterwireless.net</a>, but caught the rest of them.<br />
+<br />
+I saw some interesting talks given by some of the other UK Gentoo developers. I was very interested in the talk given by Rob Holland (tigger^) on code auditing and automation, and his use of doxygen to accomplish this. The Flash Linux talk given by Gareth Bult of <a href="http://www.flashlinux.org.uk/">Flash Linux</a> was informative. I didn't necessarily agree with the choice of window manager, but it is a great way to give people a taste of Gentoo without the repartitioning. The possibility of creating custom flash linux environments for students for example, with all the tools and data they need would be very useful. I even ordered a 1 GB USB2 flash drive to play with when I got home.<br />
+<br />
+Daniel Drake (dsd) gave an enlightening talk on his views of the kernel, why monolithic kernels are better and also a little about the user relations project he is involved in. Tom Martin (slarti) managed to impress the audience with a demonstration of zsh. Personally I wasn't that taken with tetris, but thought some of the other features such as context sensitive file completions, command argument completion and the menus for the completions were very useful. It was also great to see Tom make good use of <a href="http://latex-beamer.sourceforge.net/">LaTeX Beamer</a> - I use it myself for all my presentations and think it is very powerful.<br />
+<br />
+It was great to meet (and almost meet) many of the developers and users at the conference. Unfortunately I had to rush off at the end, so couldn't stay around and chat more. With this, and FOSDEM two weeks ago, I have learnt a lot of new things about Gentoo and met lots of interesting people. It is alway nice to be able to put a few faces to names too.

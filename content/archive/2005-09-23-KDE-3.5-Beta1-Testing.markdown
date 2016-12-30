@@ -1,0 +1,15 @@
+---
+layout: post
+title: KDE 3.5 Beta1 Testing
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/51-KDE-3.5-Beta1-Testing.html"
+s9y_link: http://blog.cryos.net/archives/51-KDE-3.5-Beta1-Testing.html
+date: 2005-09-23 16:29:23.000000000 +00:00
+---
+I have been testing the new KDE 3.5 beta1 split ebuilds for the past few days. A few of them are failing to build here, but noting essential. Overall it is looking good. I am keeping regular backups of my email just in case, but the new version of kmail seems much snappier than any previous release I have every used. Some of the new features such as the image view mode of konqueror are certainly nice, as well as the addition of superkaramba and its installer. Notifications of device insertion also work well here and the beta seems pretty stable here.<br />
+<br />
+<center><img src="http://blog.cryos.net/uploads/kde-3.5_beta1.png" alt="KDE 3.5 beta1 screenshot" /></center><br />
+This will probably be the version of KDE I will be running at the UK Linux Expo on 5/6 October. I have been using it as my main desktop since alpha1 without too many problems on my new Turion64 based laptop. There are lots of UI improvements, but still some bugs to clear up too <img src="http://blog.cryos.net/templates/default/img/emoticons/smile.png" alt=":-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> I still haven't tried it with qt-3.3.5, or GCC 4.* yet. Anyway back to moving email and web sites to my new server....

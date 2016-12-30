@@ -1,0 +1,26 @@
+---
+layout: post
+title: Avogadro 0.6.1 Released
+categories:
+- Avogadro
+- Chemistry
+- FOSS
+- Gentoo
+- GSoC
+- KDE
+- Linux
+permalink: "/archives/175-Avogadro-0.6.1-Released.html"
+s9y_link: http://blog.cryos.net/archives/175-Avogadro-0.6.1-Released.html
+date: 2008-03-09 19:30:00.000000000 +00:00
+---
+<span><p>I am pleased to announce that I tagged and released <a href="http://avogadro.openmolecules.net/wiki/Avogadro_0.6.1">Avogadro 0.6.1</a> yesterday evening. This is a bug fix release which fixes one pretty large bug that slipped through - the OpenGL context was lost if switching between virtual desktops, multiple views etc rendering the OpenGL window useless unless the application was restarted. As such I would encourage anyone running Avogadro 0.6.0 to upgrade to this new version. It also features several smaller bug fixes and feature enhancements.</p>
+
+<center><img src="http://blog.cryos.net/uploads/Avo-0_6_1.png" width="600" height="503" alt="Avogadro 0.6.1 running in a KDE 4 session" /></center>
+
+<p>The screen shot above shows Avogadro 0.6.1 running in a KDE 4 session. One of the small visual tweaks I made was to add a second light source to our default OpenGL scene which really helps to illuminate the other side of the scene. Thanks go out to Albert for his suggestion of adding another light source. Hopefully there are no really big bugs remaining but Avogadro is still in the beta stages of its development. It is rapidly approaching a stable release though and I am very happy with our progress so far.</p>
+
+<p>We would love to hear what you think of Avogadro. I had one person question why we always have to use the latest and greatest version of <a href="http://openbabel.org/">OpenBabel</a> and felt I should offer some explanation. Many of the features exposed in Avogadro use functions and structures in OpenBabel. I myself was quite heavily involved in improving OpenBabel's support for Gaussian cube files and the cube format so that we could load and display orbitals for example. As such we often add new features or fix bugs in OpenBabel trunk and so a new release of OpenBabel must be used in order for everything to work.</p>
+
+<p>There are already ebuilds for this latest version in the <a href="http://www.gentoo.org/">Gentoo</a> tree. Ubuntu/Debian builds are in the process of being built. We should hopefully have Mac and Windows binaries very soon too.</p>
+
+<p>I am headed to a meeting in the UK where Donald and I will be talking with other scientists about visualisation in chemistry and related areas. We will of course be showing off Avogadro as well as talking with many other people working in this area. I am very much looking forward to it and hope that this will lead to further innovation in the Avogadro project as well as the open source chemistry movement in general. It will of course be great to have a full English breakfast and some real ale too!</p></span>

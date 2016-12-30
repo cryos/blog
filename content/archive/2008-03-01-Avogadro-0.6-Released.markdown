@@ -1,0 +1,27 @@
+---
+layout: post
+title: Avogadro 0.6 Released
+categories:
+- Avogadro
+- Chemistry
+- FOSS
+- GSoC
+- KDE
+- Linux
+permalink: "/archives/174-Avogadro-0.6-Released.html"
+s9y_link: http://blog.cryos.net/archives/174-Avogadro-0.6-Released.html
+date: 2008-03-01 03:01:45.000000000 +00:00
+---
+<span><p>Earlier today we released <a href="http://avogadro.openmolecules.net/wiki/Avogadro_0.6.0">Avogadro 0.6</a>. This release is quite overdue and we had originally planned to make a release around the new year. This release has many, many new features that have been implemented since the last release.</p>
+
+<center><img src="http://blog.cryos.net/uploads/avo_CrH2O_1-6.png" width="600" height="435" alt="Avogadro 0.6.0 displaying an orbital" /></center>
+
+<p>I am especially proud of the new support for displaying surfaces. This initially led to the surface engine that displays a Van der Waals surface. Tim added the ability to map the electostatic surface potential onto that. I then began work on adding support for displaying orbitals. This led to me getting commit access to <a href="http://openbabel.org/">OpenBabel</a> and making quite a few commits as I got Gaussian cube loading working. While I was there I couldn't resist improving the Grid classes (still a little more I would like to add in).</p>
+
+<p>Another new feature I am really pleased with is the QGraphicsView based periodic table. I think it works very nicely and I am hoping to add this code to Kalzium. I think the Avogadro library is in great shape for me to begin porting Kalzium to use it. Tim and Geoff have been doing some amazing work in OpenBabel on improving the force fields used for geometry optimisations.</p>
+
+<p>We have also been doing a lot of work to improve Avogadro's performance when rendering large systems. We have added quickRender functions and OpenGL display lists to improve interactivity as well as threading calculations where this made sense. We have a cool little colour widget Geoff coded too that allows colours to be displayed and picked easily, improved default layout and one of my personal favourites - persistent settings in most of Avogadro.</p>
+
+<p>There are certainly some bugs remaining. I would like to get to the bottom of as many as I can and hope to make one or two bug fix releases in the 0.6 branch. We would love to get feedback from people. We have already made a source release and a Mac binary. I will be adding Gentoo ebuilds shortly and we will hopefully get a Windows binary out by early next week.</p>
+
+<p>Hope you enjoy this release. I think we are getting close to a stable API that we can call 1.0 and have most of the core features I was hoping to get into Avogadro. Our framework is extremely modular and extensible and I hope that we will be able to build up a community around Avogadro. It was also great to be able to make this release on 29 February - we have so few of them <img src="http://blog.cryos.net/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /></p></span>

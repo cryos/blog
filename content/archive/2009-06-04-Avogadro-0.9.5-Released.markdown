@@ -1,0 +1,27 @@
+---
+layout: post
+title: Avogadro 0.9.5 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- KDE
+permalink: "/archives/224-Avogadro-0.9.5-Released.html"
+s9y_link: http://blog.cryos.net/archives/224-Avogadro-0.9.5-Released.html
+date: 2009-06-04 00:40:00.000000000 +00:00
+---
+<span><p>Yesterday I tagged the <a href="http://avogadro.openmolecules.net/">Avogadro 0.9.5 release</a>, you can grab the latest <a href="https://sourceforge.net/project/showfiles.php?group_id=165310">downloads from here</a>. Life has been hectic this last couple of months, and to be honest I have not gotten as much done as I would have liked. Still there are some great additions such as the experimental cartoon ribbon display ported by Tim from the <a href="http://www.zeden.org/">Zodiac Zeden</a> project.</p>
+
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/avogadro-0-9-5.png' onclick="F1 = window.open('/uploads/avogadro-0-9-5.png','Zoom','height=717,width=904,top=166,left=200.5,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_left" width="199" height="157" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/avogadro-0-9-5.serendipityThumb.png" alt="Avogadro 0.9.5" /></a>
+
+<p>Geoff also worked on getting more screen real estate for the actual display, after we bounced some ideas around over the last few months. I think that looks great, and have always tried to ensure the maximum amount of screen space was devoted to displaying the molecule. I still have a few more ideas, but fear I do not have the time to implement them. Geoff also added a new peptide builder and David has been working tirelessly on plotting spectra.</p>
+
+<p>I have been working on decidedly less glamorous and less visual aspects of Avogadro. This includes improvements to our build system, I added the infrastructure required to find and build plugins/applications against the system installed Avogadro library. I also uploaded a few examples to <a href="http://github.com/cryos">GitHub</a>, and David is actively working on an external plugin for a summer project.</p>
+
+<p>I worked on getting a CMake project that included and compiled both Avogadro and OpenBabel. I then turned my attention to making a relocatable, self-contained app bundle for the Mac. This is working quite well, although there are a few parts of the build system I would like to clean up. It does mean we have relocatable applications that can run from a USB stick on both Windows and Apple systems now.</p>
+
+<p>I crushed quite a few bugs too, worked on API improvements and fixed Noel's long standing feature request - to disable the visual cues when navigating around a molecule. The original Windows installer shipped with a data loss bug, when saving a molecule the original could be erased and you would be left with a zero length file. This was a Windows specific bug that slipped through, I spent half of today tracking this issue with a few other Windows bugs and updated installers have been uploaded (Tim made the Python enabled installer). Please ensure you update to Avogadro-0.9.5-win32a.exe or Avogadro-0.9.5-python-win32.exe. Hacking on Windows has to be one of my least favourite activities, and I need a couple of days away from that whole platform before I can go back and finish some of the work I have been doing...</p>
+
+<p>We are pushing to a 1.0.0 release, targeted for July. We would appreciate feedback on the interface, bugs encountered, the public API that is installed along with any other suggestions or offers of help. Our translations are now doing very well too, and any help improving them further would be appreciated.</p>
+
+<p>Enjoy the new release, another is likely only a week or two away as we crush the remaining bugs. I am also fighting to find time to implement a few more features I would really like to see in Avogadro 1.0.0.</p></span>

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Avogadro 0.9.4 Released
+categories:
+- Avogadro
+- Chemistry
+- KDE
+- Linux
+permalink: "/archives/220-Avogadro-0.9.4-Released.html"
+s9y_link: http://blog.cryos.net/archives/220-Avogadro-0.9.4-Released.html
+date: 2009-05-09 23:20:00.000000000 +00:00
+---
+<span><p>A week ago today we released <a href="http://avogadro.openmolecules.net/">Avogadro 0.9.4</a>. If you would like to try out the new release then you can grab <a href="https://sourceforge.net/project/showfiles.php?group_id=165310&package_id=187449">packages and source here</a>. No pretty pictures this time as I am at the KDE GSoC America sprint in Boston, MA and only have my little Eee PC with me. I will see if I can remedy that when I get back home.</p>
+
+<p>This week has been really busy. I have been working hard on getting an Avogadro, OpenBabel super project set up on the Mac. Then using the CMake functions to make a fully relocatable app bundle. This is really experimental right now, but if you would like to play with it then check it out in the <a href="https://sourceforge.net/project/showfiles.php?group_id=165310&package_id=187449">downloads section</a>. It is actually the 0.9.4 release with a few patches to our translation files and some other small fixes. It can be run from any directory, and contains Qt and OpenBabel.</p>
+
+<p>There were a few problems with the 0.9.4 release we discovered a few days after the release was made. The main user visible issue is with the translation files not loading, and so we will hopefully get a new release out soon. This is already fixed in head.</p></span>

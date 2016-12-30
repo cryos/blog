@@ -1,0 +1,23 @@
+---
+layout: post
+title: Avogadro 1.0.0 Released!
+categories:
+- Avogadro
+- Chemistry
+- FOSS
+- Gentoo
+- KDE
+- Linux
+permalink: "/archives/233-Avogadro-1.0.0-Released!.html"
+s9y_link: http://blog.cryos.net/archives/233-Avogadro-1.0.0-Released!.html
+date: 2009-10-23 22:02:00.000000000 +00:00
+---
+<span><p>It is with great pleasure that I announce the release of <a href="http://avogadro.openmolecules.net/wiki/Avogadro_1.0.0">Avogadro 1.0.0</a>. After many years of work we have released what we consider to be a stable Avogadro release on <a href="http://en.wikipedia.org/wiki/Mole_Day">Mole Day</a>, which seems appropriate given the projects's name. There are still some rough edges, but I think this is a good release. With your help we can fix bugs in the release while working on new features in trunk.</p>
+
+<center><object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=7222681&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=7222681&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><p><a href="http://vimeo.com/7222681">Avogadro - Code Swarm</a> from <a href="http://vimeo.com/user980300">Marcus Hanwell</a> on <a href="http://vimeo.com">Vimeo</a>.</p></center>
+
+<p>What better time to look back to the beginnings of Avogadro. There was a <a href="https://sourceforge.net/community/avogadro-the-tyra-of-molecular-modeling/">blog post made today by Sourceforge about Avogadro</a> detailing a little of that history. I have also made a <a href="http://vis.cs.ucdavis.edu/~ogawa/codeswarm/">code_swarm</a> movie visualizing the history of the <a href="http://avogadro.openmolecules.net">Avogadro project</a>. There have been quite some changes in that time both at a project level and a personal level.</p>
+
+<p>I would like to thank <a href="http://www.google.com/">Google</a> for sponsoring me for a <a href="http://code.google.com/soc/">GSoC project</a> in the summer of 2007. Also <a href="http://hutchison.chem.pitt.edu/">Geoff Hutchison</a> for giving me the opportunity to work with him at the University of Pittsburgh on interesting computational and visualization projects. Then there is my new employer, <a href="http://www.kitware.com/">Kitware</a>, who have provided me with an exciting opportunity to push scientific visualization and cross platform development to its limits.</p>
+
+<p>To finish off a great day, my wife has informed me my new espresso machine has arrived! I am going to <a href="http://camp.kde.org/">Camp KDE</a> in January too!</span>

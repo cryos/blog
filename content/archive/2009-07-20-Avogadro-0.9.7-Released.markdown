@@ -1,0 +1,25 @@
+---
+layout: post
+title: Avogadro 0.9.7 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- KDE
+permalink: "/archives/229-Avogadro-0.9.7-Released.html"
+s9y_link: http://blog.cryos.net/archives/229-Avogadro-0.9.7-Released.html
+date: 2009-07-20 05:58:08.000000000 +00:00
+---
+<span><p><a href="http://avogadro.openmolecules.net/">Avogadro</a> 0.9.7 was released on 18 July 2009. You can <a href="http://sourceforge.net/projects/avogadro/files/">download Avogadro here</a>. I have been less involved in the development of Avogadro in the last six weeks due to a <a href="http://blog.cryos.net/archives/226-Spawning-a-New-Process-William-Aaron-Alexander-Hanwell.html">major event</a> in my personal life. Still this release has some great new features in it, several of which I squeezed the time in  to implement.</p>
+
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/avogadro-0-9-7.png' onclick="F1 = window.open('/uploads/avogadro-0-9-7.png','Zoom','height=666,width=900,top=281,left=522,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_right" width="200" height="146" style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/avogadro-0-9-7.serendipityThumb.png" alt="" /></a>
+
+<p>Some of the highlights include fixing a long standing rendering bug for our Linux users (me included) where garbage would be rendered right below the tab labels. This was a fix added to Qt 4.5.0 that I discovered while looking into the issue. A nice side effect is the new inline close buttons on view tabs. I also finally got detached OpenGL views into Avogadro, as shown in the screenshot to the right. It is a little clunky right now as you need to open a new view, and then detach it. I will clean up the interface for the next release hopefully. This allows for multiple views of the same molecular scene, which can be extremely useful for certain kinds of work.</p>
+
+<p>Another long standing feature I wanted to implement is in too, the inline configuration buttons for our display types. If you can see the little wrenches, you can now click on them to configure that display type. This code was inspired by the inline close buttons that are in the Qt Creator open file list. Geoff worked making the configuration docks easier to hide, we now default to devoting roughly 90% of screen space to the 3D view, which I think is great. There have been several changes to how molecules are loaded/saved too, I am still hunting down some issues but this allows us to read multiple molecule files for example.</p>
+
+<center><a href="http://sf.net/community/cca09/vote/?f=386"><img border=0 src="http://sf.net/awards/cca/badge_img.php?f=386"></a></center>
+
+<p>Today is the last day that you can <a href="http://sf.net/community/cca09/vote/?f=386">vote for Avogadro in the SourceForge Community Choice Awards</a>! Please cast your vote if you think that Avogadro is a great tool for Academia. Tim (one of our other dedicated Avogadro developers) <a href="http://timvdm.blogspot.com/2009/07/sourceforges-community-choise-awards.html">posted about the release and the awards</a> too. I would like to thank several people in the chemistry community who expressed their support for Avogadro on their blogs - <a href="http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2137">Peter Murray-Rust</a>, <a href="http://depth-first.com/articles/2009/06/24/3d-molecular-visualization-with-avogadro">Richard Apidoca</a> and <a href="http://molecularmodelingbasics.blogspot.com/2009/06/vote-early-vote-often.html">Jan Jensen</a>, along with so many others who have helped to promote Avogadro on Twitter, FriendFeed and other online services.</p>
+
+<p>We hope you enjoy the release, whatever happens with the SourceForge Community Choice Awards it was an honour to be nominated. It was great to see all the support for the Avogadro project in the wider community too. It has inspired me to go on and do more with Avogadro - thanks to all of you.</p></span>

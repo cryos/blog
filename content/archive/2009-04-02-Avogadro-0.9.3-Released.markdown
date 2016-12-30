@@ -1,0 +1,24 @@
+---
+layout: post
+title: Avogadro 0.9.3 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- KDE
+- Linux
+permalink: "/archives/216-Avogadro-0.9.3-Released.html"
+s9y_link: http://blog.cryos.net/archives/216-Avogadro-0.9.3-Released.html
+date: 2009-04-02 16:13:00.000000000 +00:00
+---
+<span>
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/avogadro-0.9.3.png' onclick="F1 = window.open('/uploads/avogadro-0.9.3.png','Zoom','height=839,width=1140,top=191,left=400,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_left" width="200" height="146" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/avogadro-0.9.3.serendipityThumb.png" alt="Avogadro 0.9.3 on Linux/KDE 4" /></a>
+<p>Yesterday, on April 1, we tagged and released <a href="http://sourceforge.net/forum/forum.php?forum_id=936767">Avogadro 0.9.3</a> exactly one calendar month after 0.9.2 was released. This has been quite a big month for Avogadro - I took it to the <a href="http://www.aps.org/">APS March meeting</a> and the <a href="http://www.q-chem.com/">Q-Chem</a> workshop. To the left is a screenshot of the latest release showing the electron density of a vitamin C molecule with the approximated electrostatic surface potential mapped onto it.</p>
+
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/mystery-molecule-mo69.png' onclick="F1 = window.open('/uploads/mystery-molecule-mo69.png','Zoom','height=1045,width=1300,top=191,left=400,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_right" width="200" height="160" style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/mystery-molecule-mo69.serendipityThumb.png" alt="Ray traced mystery molecule" /></a>
+<p>We made quite a few fixes and improvements leading up to the APS and Q-Chem meetings. The highlights are in the <a href="http://avogadro.openmolecules.net/wiki/Avogadro_0.9.3">release notes</a>. Some of my favourites are the animation of molecular vibrations, plotting of IR spectra, improved rendering/handling of surfaces including meshes with colours mapped to their vertices. The Windows build is also fully relocatable, meaning it can even run off of a USB stick. I am hoping to do the same for the Mac and Linux builds too. I made several improvements to the super cell builder, surfaces and even made a start on a z matrix editor (not ready yet).</p>
+
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/benzene-density-esp1.png' onclick="F1 = window.open('/uploads/benzene-density-esp1.png','Zoom','height=1045,width=1300,top=191,left=400,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_left" width="200" height="160" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/benzene-density-esp1.serendipityThumb.png" alt="Ray traced benzene molecule with electron density and electrostatic surface potential mapped onto the density surface" /></a>
+<p>To the right is the ray traced image of a larger molecule and one of its molecular orbitals. The <a href="http://www.povray.org/">POV-Ray</a> rendering code has also seen quite a few improvements. I have been experimenting with generating movies from POV-Ray rendered images too. I am planning to make improvements to our build system on Windows and Mac in order to make packaging easier. My main focus is still Linux development, but so many people insist on using other operating systems. Other more exciting things include producing videos of molecules rotating, vibrating, trajectories and using GLSL to improve the rendering performance with big systems (>25,000).</p>
+
+<p>We would appreciate feedback on this release from the wider community. I am really pleased to announce we have gained at least one new contributor this month, David Lonie, who worked on the new IR spectra plotting code. I have made a new ebuild for <a href="http://www.gentoo.org/">Gentoo</a>, prepared a <a href="http://sourceforge.net/project/platformdownload.php?group_id=165310&sel_platform=8497">Windows installer</a>, Geoff has made a new <a href="http://sourceforge.net/project/platformdownload.php?group_id=165310&sel_platform=8500">Mac package</a> and there is ofcourse <a href="http://sourceforge.net/project/platformdownload.php?group_id=165310&sel_platform=4954">source</a>. I am sure other distros will have packages ready soon too. Hope you enjoy the graphics - videos to come soon!</p></span>

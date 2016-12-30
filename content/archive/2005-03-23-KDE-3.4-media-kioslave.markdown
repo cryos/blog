@@ -1,0 +1,13 @@
+---
+layout: post
+title: KDE 3.4 media:/ kioslave
+categories:
+- Gentoo
+- Linux
+permalink: "/archives/24-KDE-3.4-media-kioslave.html"
+s9y_link: http://blog.cryos.net/archives/24-KDE-3.4-media-kioslave.html
+date: 2005-03-23 23:04:53.000000000 +00:00
+---
+I have been playing with the new media:/ kioslave in KDE 3.4, and once you get it working it is really cool! I took a shot of the konqueror window after it detected my old 128 MB memory stick, and an audio CD I inserted. It does take a little effort to get it working right now, I had to emerge hal, dbus and pmount (ebuild from <a href="http://bugs.gentoo.org/show_bug.cgi?id=69575" target="_blank">this bug</a>). After rebuilding kdebase-kioslaves, starting hald and dbus and logging back in it worked like a charm.<br />
+<center><a href="http://blog.cryos.net/uploads/kde-3.4-media.png" target="_blank"><img width='250' height='211' style="border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/kde-3.4-media.serendipityThumb.png" alt="media kioslave in action" /></a></center><br />
+We have also noticed a few possible issues with migration of older KDE profiles to 3.4 - the konqueror sidebar has become corrupted in some instances (kioslaves) showing the old devices kioslave without the new ones that replace it. Not sure if other people have had this problem or not.

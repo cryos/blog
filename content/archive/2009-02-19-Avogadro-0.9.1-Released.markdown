@@ -1,0 +1,22 @@
+---
+layout: post
+title: Avogadro 0.9.1 Released
+categories:
+- Avogadro
+- Chemistry
+- General
+permalink: "/archives/212-Avogadro-0.9.1-Released.html"
+s9y_link: http://blog.cryos.net/archives/212-Avogadro-0.9.1-Released.html
+date: 2009-02-19 15:50:48.000000000 +00:00
+---
+<span><p>We continue our push forward with Avogadro with the <a href="http://avogadro.openmolecules.net/wiki/Avogadro_0.9.1">release of Avogadro 0.9.1</a> on 16 February. There are lots of new features that made it in recently and we are still stabilizing many of them. This release has featured lots of experimentation with <a href="http://www.cmake.org/Wiki/CMake:Packaging_With_CPack">CPack</a>, along with me getting more familiar than perhaps I ever wanted to with Windows packaging. <a href="http://www.cmake.org/">CMake</a> makes things easier but there are some things it cannot fix, such as the manifest issues we hit.</p>
+
+<center><img src="http://blog.cryos.net/uploads/nanotube-small.png" width="600" height="180" alt="Nanotube" /></center>
+
+<p>This is the second of our final beta series before our 1.0 release. We hope to make a release roughly once a month until we release Avogadro 1.0. During this period some new features will be added. Our main focus will be on improving the API, fixing crashers, ensuring all platforms have stable packages with full functionality and improving fault tolerance. To this end we will be adding to our (currently) quite small test suite and making use of <a href="http://www.cdash.org/">CDash</a> in order for all developers to be able to see issues on all targeted platforms.</p>
+
+<p>Since the release I found a few small bugs and so already want to make a new release. I fixed a bug when calculating electron density cubes from formatted checkpoints - it was one stray line of code! There is a super cell builder that can do rebonding on the super cell in the works and I recently committed some code to use relative paths to find our plugins. This seems to work really well and with a little tinkering should allow us to run off a USB stick without installation.</p>
+
+<p>While working on our Windows build I realized I have been neglecting our Linux build a little. So I have an avogadro.desktop file and some mime type files to give us a menu entry and associate with some file types. I may not have chance to finish them up and commit until I get back on Sunday.</p>
+
+<p>On that note I will likely be offline until Sunday/Monday. I have my first big job interview tomorrow - wish me luck! Like several people on <a href="http://planetkde.org">Planet KDE</a> I am currently in the market for a job. I am going to be all mysterious and not give any more details, other than to say I am excited and nervous!</p></span>

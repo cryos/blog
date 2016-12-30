@@ -1,0 +1,18 @@
+---
+layout: post
+title: FOSDEM
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/16-FOSDEM.html"
+s9y_link: http://blog.cryos.net/archives/16-FOSDEM.html
+date: 2005-03-02 16:48:00.000000000 +00:00
+---
+<img width='400' height='267' style="float: right; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/fosdem-group.jpg" alt="Group shot of Gentoo devs" />What can I say - FOSDEM was great! It was really good to meet up with some of the other developers from Gentoo, as well as listen to some of the amazing talks and buy a little merchandise. I have never managed to make it to a large conference before, so it was quite an experience being there.<br />
+<br />
+I travelled down on the Eurostar with Louise, my fiancee. She had a nice enough time, despite not being very interested in computers. It was bitterly cold though, and I am afraid that Brussels is very expensive with little to see or do there. Luckily the conference had lots going off, and so more than compensated. I had quite a list of talks I wanted to go to anyway - starting with Richard Stallman's.<br />
+<br />
+Overall the talks were very good. I especially enjoyed Alan Cox's talk about maintaining a stable kernel. He offered an amazingly cadid look into how he tries to maintain a stable kernel and some of the problems he faces. I also discovered some previously hidden features of KDevelop I had not seen before - as well as realising what a versatile programming environment it offers.<br />
+<br />
+It was great to actually meet so many other developers in person, and we thoroughky enjoyed the developer meal on Saturday evening. I swapped GPG key signatures with quite a large number of the developers there - it will take me forever to sign and upload them all though. If anyone would like to see any of the photos I took then I have uploaded them to my <a href="http://gallery.cryos.net/fosdem2005" target="_blank">gallery</a> - I will add more of the images as I get time to scan them in.

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Avogadro 1.0.3 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- GSoC
+- KDE
+permalink: "/archives/251-Avogadro-1.0.3-Released.html"
+s9y_link: http://blog.cryos.net/archives/251-Avogadro-1.0.3-Released.html
+date: 2011-04-25 16:58:39.000000000 +00:00
+---
+<span><p>I am pleased to be able to announce the availability of <a href="http://avogadro.openmolecules.net/">Avogadro</a> <a href="https://sourceforge.net/projects/avogadro/files/avogadro/1.0.3/">1.0.3</a>! What happened to Avogadro 1.0.2 I hear you ask...shortly after tagging Michael reported an issue with i18n building/installations. So 1.0.3 contains a couple of very small build system fixes, but see the <a href="http://avogadro.openmolecules.net/wiki/Avogadro_1.0.2">1.0.2 release notes</a> for details of most of the fixes.</p>
+
+<p>As always, we appreciate your feedback. There are still a few issues outstanding, but many things were fixed. These binaries are also built against much newer versions of Qt and Open Babel where significant improvements have also been made. There may be one or two more releases of the 1.0 line if necessary (I have streamlined the release process with a view to making more releases), but I would like to focus our efforts on an unstable release for 1.1. Once 1.1 is stable, a 1.2.0 release will be cut and branched. There are lots of new features in master that we would love more feedback on.</p></span>

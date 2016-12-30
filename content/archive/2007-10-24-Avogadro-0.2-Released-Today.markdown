@@ -1,0 +1,20 @@
+---
+layout: post
+title: Avogadro 0.2 Released Today
+categories:
+- FOSS
+- Gentoo
+- GSoC
+- KDE
+- Linux
+permalink: "/archives/159-Avogadro-0.2-Released-Today.html"
+s9y_link: http://blog.cryos.net/archives/159-Avogadro-0.2-Released-Today.html
+date: 2007-10-24 02:05:00.000000000 +00:00
+---
+<span><p>Today we released <a href="http://avogadro.sourceforge.net/">Avogadro</a> 0.2 which features many improvements since the 0.1 release. It has lots of the new features I worked on during my <a href="http://code.google.com/soc/2007/kde/appinfo.html?csaid=3EBDFAAF85EFFA00">Google Summer of Code project</a> along with some great work by other contributors such as the bond centric manipulation tool coded by Shahzad Ali, Ross Braithwaite and James Bunt.</p>
+
+<p>Geoffrey Hutchison <a href="http://geoffhutchison.net/blog/archives/2007/10/23/1023-avogadro-and-chemistry/">announced the release earlier today</a>, on what I have been informed is mole day due to the date format used in the US - 10/23 corresponding to the 10^23 of Avogadro's number. So today seemed like an even more fortuitous time to make a release of Avogadro!</p>
+
+<p>Today also marked my first commit to the Gentoo repository in quite some time to add this release to Gentoo's ebuild repository. If you have been waiting for me to add/update packages and I haven't gotten around to it due to life being so busy now would be a good time to poke me. I will also hopefully be completing the ribbon support I have already talked about and that should make it into a release soon but wasn't ready for this release.</p>
+
+<p>We would love to receive feedback on the latest release of Avogadro. These new features will also make their way into <a href="http://edu.kde.org/kalzium/">Kalzium</a> in KDE 4.1.</p></span>

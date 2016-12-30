@@ -1,0 +1,14 @@
+---
+layout: post
+title: KDE 3.4.2 Media Manager With New hal/dbus/pmount Combo
+categories:
+- Gentoo
+permalink: "/archives/55-KDE-3.4.2-Media-Manager-With-New-haldbuspmount-Combo.html"
+s9y_link: http://blog.cryos.net/archives/55-KDE-3.4.2-Media-Manager-With-New-haldbuspmount-Combo.html
+date: 2005-10-02 18:24:07.000000000 +00:00
+---
+Hopefully kde-base/kdebase-kioslaves-3.4.2-r1 is now working with the new hal/dbus/pmount. This should allow the Gnome herd to unmask the latest Gnome ebuilds and still allow KDE users to take advantage of the improved removeable storage handling offered in KDE 3.4. The patch comes from the kubuntu breezy ebuilds so I would like to thank them for the patch!<br />
+<br />
+It is currently masked so I would like to ask any interested users to test the new ebuild with the currently masked sys-apps/dbus-0.36.2, sys-apps/hal-0.5.4 and sys-apps/pmount-0.9.3-r3. The big problem is with the API changes made in the HAL library, and the fact that the old and new versions cannot be slotted. I would appreciate any success/failure reports of kde-base/kdebase-kioslaves-3.4.2-r1 to <a href="http://bugs.gentoo.org/show_bug.cgi?id=105553">bug 105553</a>. Thanks!<br />
+<br />
+The KDE 3.5 betas work with the new versions anyway, but they are still in beta right now. They are working very well for anyone interested in trying them out. I have been using them since alpha1 as my main desktop on my laptop!

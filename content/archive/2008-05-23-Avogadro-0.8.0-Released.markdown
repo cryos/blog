@@ -1,0 +1,24 @@
+---
+layout: post
+title: Avogadro 0.8.0 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- GSoC
+- KDE
+permalink: "/archives/179-Avogadro-0.8.0-Released.html"
+s9y_link: http://blog.cryos.net/archives/179-Avogadro-0.8.0-Released.html
+date: 2008-05-23 14:29:44.000000000 +00:00
+---
+<span><p>On Monday we officially released <a href="http://sourceforge.net/forum/forum.php?forum_id=825205">Avogadro 0.8.0</a>. I think this is a great release with many improvements over 0.6.1. We have been working really hard on improving the stability of Avogadro and I hope this shows in this release. There have also been some very nice improvements in speed and lots of new features.</p>
+
+<center><img src="http://blog.cryos.net/uploads/avogadro-0.8.0.png" width="600" height="430" alt="Avogadro 0.8.0 in KDE 4 trunk" title="Avogadro 0.8.0 in KDE 4 trunk" /></center>
+
+<p>The screen shot above shows an imported Gaussian formatted checkpoint file displaying the <a href="http://en.wikipedia.org/wiki/HOMO">HOMO molecular orbital</a>. The import of output from quantum codes and subsequent calculation of MOs is at a very early stage but you should take a look at it in the extensions menu if you are interested. It currently only calculates s, p and d orbitals and can only parse formatted checkpoint files from Gaussian. The goal is to add at least f orbitals and many more quantum codes.</p>
+
+<center><img src="http://blog.cryos.net/uploads/avogadro-periodic-table-0.8.0.png" width="500" height="300" alt="Avogadro 0.8.0 in KDE 4 trunk" title="Avogadro 0.8.0 in KDE 4 trunk" /></center>
+
+<p>I don't think I ever talked about the new periodic table QGraphicsView that I am very proud of. It allows you to select elements that are not listed in the combobox, shows the colour they will have on screen and is about as compact as I can make it. I have already packaged Avogadro 0.8.0 for <a href="http://www.gentoo.org/">Gentoo</a>, we have <a href="http://sourceforge.net/project/showfiles.php?group_id=165310">binaries (Windows, Mac) and source available for download</a> and should hopefully have packages available for Debian and Ubuntu very soon.</p>
+
+<p>There were a few features that didn't make it in and a few bug fixes we found just after release. Once we have ironed out a few more bugs and received more feedback we will make a bug fix release. I was amazed to see that Avogadro is currently shooting up the <a href="http://www.sourceforge.net/>SourceForge</a> rankings and is currently at position 69! We would love to hear what you think. We certainly have quite a few improvements planned but feedback and bug reports are what is really going to help us make Avogadro into a useful tool.</p></span>

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Avogadro 0.9.2 Released
+categories:
+- Avogadro
+- Chemistry
+- Gentoo
+- KDE
+permalink: "/archives/213-Avogadro-0.9.2-Released.html"
+s9y_link: http://blog.cryos.net/archives/213-Avogadro-0.9.2-Released.html
+date: 2009-03-01 19:50:01.000000000 +00:00
+---
+<span><p>I just finishing tagging <a href="http://avogadro.openmolecules.net/">Avogadro 0.9.2</a> earlier today. I possibly procrastinated on tagging this one a little as February has not been my finest month. I didn't see any reason to make another release in that hellish month when I could wait a day. This release is a little earlier than we had scheduled, but it contains lots of bug fixes and improvements along with a couple of new features.</p>
+
+<a class='serendipity_image_link' href='http://blog.cryos.net/uploads/avogadro-0.9.2.png' onclick="F1 = window.open('/uploads/avogadro-0.9.2.png','Zoom','height=760,width=960,top=144.5,left=171,toolbar=no,menubar=no,location=no,resize=1,resizable=1,scrollbars=yes'); return false;"><img class="serendipity_image_left" width="200" height="157" style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="http://blog.cryos.net/uploads/avogadro-0.9.2.serendipityThumb.png" alt="Avogadro 0.9.2" /></a>
+
+<p>Among the highlights I tracked down our orphaned tools and extensions, so Avogadro closes down far more gracefully now than it once did. I went hunting for memory leaks and QObjects with no parents. I added some initial support for building supercells such as the zeolite structure shown in the screenshot. I also fixed some bugs with electron density calculation and this works much better and faster now. I also improved the Linux desktop user experience by adding a .desktop file, icon and mime type associations. Looks very swish.</p>
+
+<p>I built a new Windows release without Python, Tim will put one up with Python support soon, bumped the <a href="http://www.gentoo.org/">Gentoo</a> ebuild as 0.9.1 was bumped by someone else and it could not locate its plugins. I have made a number of improvements to our plugin loading to ensure that it is relative to the binary location. This should make relocatable binaries on all platforms quite feasible. March is a busy month but I hope to be able to make some more big improvements. If it goes as badly as February I may consider hibernation as an option though!</p>
+
+<p>I will be presenting some of this work at the <a href="http://www.aps.org/">APS</a> and a quantum chemistry workshop in March too, both here in Pittsburgh. We always love to have feedback, bug reports, patches or be invited to give talks at conferences in far off places! Here is hoping for a better month...</p></span>

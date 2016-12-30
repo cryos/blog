@@ -1,0 +1,15 @@
+---
+layout: post
+title: KDE 4.1.2 Unmasked in Gentoo
+categories:
+- Gentoo
+- KDE
+permalink: "/archives/192-KDE-4.1.2-Unmasked-in-Gentoo.html"
+s9y_link: http://blog.cryos.net/archives/192-KDE-4.1.2-Unmasked-in-Gentoo.html
+date: 2008-10-10 16:48:00.000000000 +00:00
+---
+<span><p><a href='http://planet.gentoo.org/developers/jmbsvicetto/2008/10/10/kde_4_1_2_is_waiting_for_you">Jorge beat me to it</a>... I am very pleased to announce that KDE 4.1.2 is in the Gentoo official tree and I unmasked it a little earlier today. I think that all the big bugs have been squashed but there may be a few left lurking. I have learnt a lot more than I ever really wanted to about KDE initialization but hopefully that has helped me to improve the KDE experience in Gentoo.</p>
+
+<p>I would like to thank everyone involved in getting these ebuilds in to shape. I am sorry that KDE 4.1 has been so delayed and hope that we will be able to continue tracking KDE releases as normal in the future. Our new ebuilds are more compliant and closer to the way other distros/upstream intended them to be installed. I recommend the use of -kdeprefix, you can stop using any overlays if you want to use KDE releases.</p>
+
+<p>We have written a <a href="http://www.gentoo.org/proj/en/desktop/kde/kde4-guide.xml">guide to installing KDE 4.1</a> and I suggest you read through it before installing. Please report any bugs in <a href="http://bugs.gentoo.org/">bugzilla</a> and enjoy KDE 4.1. I personally use the -kdeprefix as my daily desktop and have found it to be stable and usable.</p></span>

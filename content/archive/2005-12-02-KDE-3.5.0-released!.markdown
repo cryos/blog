@@ -1,0 +1,14 @@
+---
+layout: post
+title: KDE 3.5.0 released!
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/61-KDE-3.5.0-released!.html"
+s9y_link: http://blog.cryos.net/archives/61-KDE-3.5.0-released!.html
+date: 2005-12-02 15:22:00.000000000 +00:00
+---
+I haven't seen this announced yet by anyone on the Gentoo planet - KDE 3.5.0 has been released and we had the ebuilds available upon release thanks to the KDE folks. It is a really nice release with lots of improvements, although it still has a few bugs in there. There is a nice <a href="http://www.kde.org/announcements/visualguide-3.5.php">visual guide</a> available with some of the highlights. I would recommend upgrading the the <a href="http://www.gentoo.org/doc/en/kde-split-ebuilds.xml">split ebuilds</a> if you haven't already done so. It has been unmasked but it is still in the testing branch for a reason.<br />
+<br />
+In other news KDE 3.4.3 has been targeted for stable marking and is already marked as such on several architectures. I think most of the bugs in the 3.4 line have now been resolved and this is a very stable desktop I use at work everyday. There was also the release of <a href="http://www.digikam.org">digiKam 0.8.0</a> which has a whole host of new features packed in.

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Gentoo UK 2007
+categories:
+- Gentoo
+permalink: "/archives/149-Gentoo-UK-2007.html"
+s9y_link: http://blog.cryos.net/archives/149-Gentoo-UK-2007.html
+date: 2007-07-18 22:10:39.000000000 +00:00
+---
+<span><p>On Saturday I attended the <a href="http://www.genbot.co.uk/">Gentoo UK 2007 conference</a> held at UCL in London. I would like to thank James and Peter for the effort they put into organising it. I gave a short talk on my work on KDE and some of the other work I do on scientific applications and libraries as part of the scientific herd. You can grab a <a href="http://blog.cryos.net/uploads/MDHanwell-GUK2007.pdf">copy of my slides here</a> if you would like to take a read. I did just use them as a framework to talk around though...</p>
+
+<p>I enjoyed the Gentoo UK conference. It had quite an informal tone and was a great chance to meet a few other Gentoo developers along with budding developers, users and other interested parties. I wasn't able to make the last couple of meetings down in London so it was nice to make this one, although I could only make it down for the day. I took quite a few photos that I have put <a href="http://gallery.cryos.net/GUK2007/">up here</a>. Both sides of my talk received interest from different parties. I am most excited about my current work, Avogadro/Kalzium 3D molecular editor, which combines my two passions.</p></span>

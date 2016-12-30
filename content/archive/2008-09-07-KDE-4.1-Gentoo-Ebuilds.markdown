@@ -1,0 +1,25 @@
+---
+layout: post
+title: KDE 4.1 Gentoo Ebuilds
+categories:
+- Gentoo
+- KDE
+permalink: "/archives/189-KDE-4.1-Gentoo-Ebuilds.html"
+s9y_link: http://blog.cryos.net/archives/189-KDE-4.1-Gentoo-Ebuilds.html
+date: 2008-09-07 20:55:00.000000000 +00:00
+---
+<span><p>So there have been quite a few people asking what is happening with KDE 4.1 on Gentoo. There are still no ebuilds in the tree for KDE 4.1 and to be totally honest I have not been actively developing the KDE ebuilds until recently (took quite a long break). It is however something I really feel that we should have and so I have been working with a few other developers and interested users on the new ebuilds in an <a href="http://git.overlays.gentoo.org/gitweb/?p=proj/kde.git;a=summary">overlay</a>. I think these ebuilds are almost ready and I am very eager to get them into the tree.</p>
+
+<p>So what have we been doing? We have been working on a set of ebuilds that can be used with portage 2.2, there were a few setbacks when it became clear that EAPI 2 was not likely to be allowed in the tree in the very near term, but good noises are being made on the mailing lists. I think one of the big changes I have been working on is bringing KDE back into the normal file system hierarchy. This means that you will not be able to slot multiple minor versions of KDE such as 4.1 and 4.2 together.</p>
+
+<p>The loss of slotting also means that ebuild maintenance will be significantly easier, externally released packages will automatically relink to the latest kdelibs for example. It also means that users will not build up multiple copies of minor KDE versions such as 4.0, 4.1, 4.2. I think for the majority of our userbase (myself included) this situation is undesirable with few benefits for normal use of KDE. So having one slot for KDE 4 and upgrading in the normal fashion seems to be very beneficial.</p>
+
+<p>This has not been universally accepted as a good thing. I personally think our main tree KDE should always be installed in the normal FHS hierarchy as upstream seems to intend it. I see little benefit for most users, and many developers not closely involved in KDE development, to having multiple minor versions installed. Also having external KDE packages such as k3b and amarok installed in /usr but linking to libraries in a KDE prefix has never been optimal.</p>
+
+<p>My vision is for a default in-tree KDE that installs into the normal FHS tree as Gnome, Qt 4, XOrg etc do. Developers, power users and those that like to tweak would still be free to install slotted versions of KDE in KDE prefixes alongside the FHS KDE. They could also remove the FHS KDE and just use slotted versions too. We discussed during KDE 3.5 bumps how the current slotting was not ideal.</p>
+
+<p>I am certainly open to opinions. It would be good to get wider feedback from the community on which direction they would like to go in and why. This will not affect KDE 3.5 slotting with KDE 4 - they will always be slotted. It will make maintenance of external KDE packages simpler as everything will be in the same tree. Overlays with ebuilds in alternate slots and prefixes are of course still easily possible and people could continue using KDE in this way.</p>
+
+<p>Currently this work is taking place in an overlay. I am quite honestly exhausted discussing why this is or is not a good idea. I hope I have made my position clear and why I think it is a good thing for our user base. I really want to get KDE 4.1 into the tree as soon as possible. I do feel that these changes should be pushed into the tree, defaulting to an FHS compliant install and using a KDE prefix if requested.</p>
+
+<p>What are your thoughts (other than get KDE 4.1 in tree now - we are working on that)?</p></span>

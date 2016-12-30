@@ -1,0 +1,27 @@
+---
+layout: post
+title: UK Linux Expo 2005
+categories:
+- FOSS
+- Gentoo
+- Linux
+permalink: "/archives/58-UK-Linux-Expo-2005.html"
+s9y_link: http://blog.cryos.net/archives/58-UK-Linux-Expo-2005.html
+date: 2005-10-07 22:56:00.000000000 +00:00
+---
+The expo was quite interesting but far more corporate than FOSDEM. I was disappointed at the high prices of the tickets to see any of the talks - I think it was about Â£75 per session which is too much for us lowly developers... They didn't provide any kind of network access to us either, so we were cut off from the world and unable to fetch anything we didn't have mirrored on disk already.<br />
+<br />
+We got set up with a dual xeon box loaned to us by James (edit_21) for the duration of the show along with a 15" TFT screen. I brought along my new toy - the Acer Ferrari 4005. I did manage to break it a little by recompiling everything with GCC 4.0.2... It actually works really well apart from the sucky ATI binaries which fail to load because they are binary and I am forced to wait until ATI choose to recompile their drivers (assuming they can) using GCC 4. As a result 3D performance was poor, and the silky smooth cube demo I was going to put on it ground to a jerky holt! The <a href="http://www.computashop.com/">ComputaShop</a> kindly printed the large G logo and donated the CD-Rs and printed labels for us to use at the show too.<br />
+<br />
+Once the portage xorg-x11 ebuild contains the patch for the open source drivers to work on my ATI X700 PCI-E graphics card I think I am going to abandon the binary drivers unless I need them for opengl (I hardly use that stuff anyway). When I do I should probably be working! I learnt something new whilst at the expo too - cokehabit actually does something productive for Gentoo! He is one of the contributors to the GWN, and I have a wonderful picture of this colourful Gentoo user at the expo <img src="http://blog.cryos.net/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /><br />
+<br />
+<center><img src="http://blog.cryos.net/uploads/UKExpoStand.jpg" width="400" height="300" alt="Gentoo stand" />&#160;<img src="http://blog.cryos.net/uploads/cokehabit.jpg" width="225" height="300" alt="cokehabit" /></center><br />
+Nick Veitch, editor of <a href="http://www.linuxformat.co.uk/">Linux Format</a> (had my subscriber copy with me at the expo) presented us with the two awards we won earlier this year (best support resource and best distro), but I missed him and so couldn't get him to sign my GPG key <img src="http://blog.cryos.net/templates/default/img/emoticons/wink.png" alt=";-)" style="display: inline; vertical-align: bottom;" class="emoticon" /> I was truly disappointed, and didn't spot him again. The awards will be cared for in Sheffield with me taking home the best distro certificate, and Tom (tomk) taking home the best support resource certificate (he is one of the forum admins after all).<br />
+<br />
+We also had some GPG key signing action, extending our web of trust from the European devs at FOSDEM over to the UK devs (and lcars, our random dev from a long way away). It was great to meet up with so many UK devs, and some of our users too. I met up with Matthew and Pete from <a href="http://www.bytemark.co.uk/">Bytemark Hosting</a> too, they provided my Gentoo UML host for the last couple of years until I outgrew it and got a dedicated host. I somehow ended up with them and Gareth (oddjobz) - we managed to end up in a curry house a little worse for wear on Wednesday night after the Lonix event. It was a great night out where much was discussed and debated even if it wasn't quite as coherently considered as it could have been...<br />
+<br />
+Spoke to some of the <a href="http://www.kde.org/">KDE</a> developers too and found them to be very interesting. They were using <a href="http://www.kubuntu.org/">Kubuntu</a> I believe to show off their latest wears, and had some interesting discussions with them about the upcoming <a href="http://www.kde.org/announcements/announce-3.5beta1.php">3.5 release</a> which we at Gentoo have spent considerable time working on. I had the split ebuilds installed and running on my laptop throughout the conference too.<br />
+<br />
+On the last day we also met Mark Spencer, the creator of <a href="http://www.asterisk.org/">Asterisk</a> who had given a talk at the conference (unfortunately didn't get to see any of the talks due to the price for tickets). He took us out for a beer, and some of our devs/users even stayed on a little longer for a meal. I am sure they had a great time whilst I had to leave to catch my train... Giving me time to type up this post in a better state than I would have been had I stayed on.<br />
+<br />
+UPDATE: My photos from the expo are <a href="http://gallery.cryos.net/UKLinuxExpo2005/">here</a>.
