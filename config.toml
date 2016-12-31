@@ -93,6 +93,8 @@ theme = "hugo-icarus-theme"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
+    googlescholar   = "r65_q0oAAAAJ"
+    orcid           = "0000-0002-5851-5272"
     twitter         = "mhanwell"
 
 # Enable and disable widgets for the right sidebar
