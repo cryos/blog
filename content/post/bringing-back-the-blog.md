@@ -1,7 +1,7 @@
 +++
 date = "2016-12-30T17:19:58-05:00"
 title = "Bringing Back the Blog"
-draft = true
+draft = false
 categories = ["general"]
 +++
 So I got distracted with life, and continued writing in several other places, including my [company blog][kwblog], [opensource.com][osdc], and a few other spots. I also got tired of maintaining my blog on virtual machines with the typical LAMP stack, but I did get interested in using static site generators. I am giving [HUGO][hugo] a try, and I made an attempt to migrate my old posts over from [Serendipity][s9y] via [Jekyll][jekyll] in case they are still of interest. The world has changed a lot since I started blogging in 2004, and quite a bit since I last posted to a personal blog!
