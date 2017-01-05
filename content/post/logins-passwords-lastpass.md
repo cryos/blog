@@ -1,8 +1,8 @@
 +++
 categories = ["general"]
 tags = ["security"]
-images = []
-banner = ""
+images = ["images/security-ny.jpg"]
+banner = "images/security-ny.jpg"
 date = "2017-01-03T16:51:00-05:00"
 title = "Logins, Passwords and Lastpass"
 menu = ""
