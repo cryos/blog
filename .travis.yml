@@ -1,0 +1,16 @@
+language: go
+
+go:
+    - "1.7.1"
+
+before_script:
+    - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
+    - go get -u -v github.com/spf13/hugo
+    - nvm install -g firebase-tools
+
+script:
+    - git submodule update --init
+    - hugo
+
+after_success:
+    - firebase deploy --token=${FIREBASE_API_TOKEN}
