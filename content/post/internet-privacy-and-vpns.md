@@ -6,11 +6,11 @@ banner = "images/201704-cloud-eyes.jpg"
 date = "2017-04-09T11:11:00-05:00"
 title = "Internet Privacy and VPNs"
 menu = ""
-description = "I am sure you are sick of reading about Internet privacy, but after spending longer than might be advisable I have added some VPNs, browser plugins, and made a few changes"
+description = "I am sure you are sick of reading about Internet privacy, but after spending longer than might be advisable I have added a VPN, some browser plugins, and made a few changes"
 
 +++
 
-I am sure you have seen one or two articles already about the [demise of Internet privacy protections at the ISP level][nyt_isp_privacy], coupled with a crippling lack of competition. Last I checked I have only one realistic option from our cable company, and one far less realistic option of extremely slow DSL (by modern standards). Trying to liken the ISPs right to collect and sell data as akin to that of the websites we choose to visit seems vacuous at best.
+I am sure you have seen one or two articles already about the [demise of Internet privacy protections at the ISP level][nyt_isp_privacy], coupled with a crippling lack of competition in the USA. Last I checked I have only one realistic option from our cable company, and one far less realistic option of extremely slow DSL (by modern standards). Trying to liken the ISPs right to collect and sell data as akin to that of the websites we choose to visit seems vacuous at best.
 
 This whole thing got me thinking about taking Internet privacy more seriously, and I wanted to find a [reputable virtual private network (VPN) provider][lifehacker_vpn] to enable us to remove our ISPs ability to sell my family's Internet activity. I found so many fake review sites offering to recommend whatever they were affiliated with, but with some persistence came across some resources that seemed more authentic.
 
