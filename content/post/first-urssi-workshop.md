@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Thoughts after the first workshop disucssing the US Research Software Sustainability Institute (URSSI) at UC Berkeley."
 categories = ["academia"]
 tags = ["open-science"]
 images = ["images/201804-urssi-careers.jpg"]
