@@ -4,7 +4,7 @@ categories = ["academia"]
 tags = ["open-science"]
 images = ["images/201804-urssi-careers.jpg"]
 banner = "images/201804-urssi-careers.jpg"
-date = "2018-04-13T11:36:13-04:00"
+date = "2018-04-15T10:56:13-04:00"
 title = "First URSSI Workshop"
 menu = ""
 
