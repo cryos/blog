@@ -102,6 +102,10 @@ So here we are, just about over the shock and nearly a week later. I am shocked 
 
 Another thing we are left wondering is whether this was an inside job. The fact we went to sleep so early, everything locked from the inside, all the lights off, nothing on the balcony and a thief climbed to the second floor on the off chance he could force the exterior balcony door and steal valuables as we slept. It seems like a stretch, if all the doors have weak seals then why not just break into a ground floor property? If it was just ours would you chance it on a seemingly vacant property, or wait until you knew it was occupied.
 
+### Replacement Cards, ID
+
+We spent most of Tuesday at the DMV getting replacement ID, registration for my motorcycle, and of course going to get more documents as we had to prove things due to having no license... We were also pleased to get replacement credit cards from Capital One, the others started tricking in yesterday (Friday). I don't know if that is because Capital One is a better company, or further proof that you get what you pay for (it is the only card we have with an annual fee). It will be a couple more weeks before our replacement driving licenses arrive, and despite being way over 21 there are still many that want to verify my ability to buy alcohol!
+
 ### Reflecting
 
 Maybe it was bad luck, and we know it could have been far worse. We are glad that our passports weren't stolen, and that we could get home. We are left feeling like the company isn't interested in making this right, and would rather see if they can ignore it. They were negligent, but we are also having trouble communicating with the police, and it has been suggested that without having signed something the officers who came out did not properly report the crime.
@@ -110,7 +114,7 @@ I am not sure what other avenues we have open to us. I am posting this in hopes 
 
 Be careful out there, I never planned for the possibility of anyone breaking into our room as we slept, and hadn't really secured anything overnight. We could have spread our cards and cash around a little, but at some point you have to place your trust in others, and hope that things turn out alright. It could have been far worse, they didn't get away with much, and we made it home. We are all pretty shaken, and having spent all our vacation budget on our worst vacation ever.
 
-We are feeling sad to have been the victim of such a crime that leaves you feeling violated and unsafe.
+We are feeling sad to have been the victim of such a crime that leaves you feeling violated and unsafe. We are also feeling grateful to be home, and have everyone safe.
 
 [divi-dutch-village]: https://www.diviresorts.com/divi-dutch-village-resort-aruba.htm
 [divi-resorts]: https://www.diviresorts.com/
