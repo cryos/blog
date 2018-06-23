@@ -4,7 +4,7 @@ categories = ["general"]
 tags = ["vacation", "personal"]
 images = ["/images/divi-dutch-village-door-break-in-plastic.jpg"]
 banner = "/images/divi-dutch-village-door-break-in-small.jpg"
-date = "2018-06-23T9:45:00-04:00"
+date = "2018-06-23T09:25:00-04:00"
 title = "Room Break In Nightmare at Divi Aruba"
 menu = ""
 
@@ -13,6 +13,8 @@ menu = ""
 Last week we went on vacation to Aruba, booked through Delta Vacations, staying at the [Divi Dutch Village](divi-dutch-village) in Aruba. This was all set to be a great week away with the family, and our first real getaway to an island together in ten years. At around 1:30am local time on Father's day (just) my wife awoke to see a figure in our room before he realized he had disturbed her and ran! He got away with all our cash, cards, IDs, and some electronics. What I had thought the night before would be my best Father's day ever quickly turned into the worst at the Divi Dutch Village in Aruba.
 
 <!--more-->
+
+![Family at Divi Aruba before the break in](/images/divi-dutch-village-family.jpg)
 
 My wife and I have lived in the USA for over ten years now, and recently naturalized. We decided it would be great to celebrate the milestone by taking a vacation in the Caribbean. Just before moving to the US we went on a dive holiday to Curacao and Bonaire, and thought it might be fun to complete our collection of the island chain. After some searching we selected the Divi Dutch Village, and booked it through Delta Vacations. We wanted something simple, and decided to skip out on diving so that we could enjoy the beach with our two children.
 
@@ -80,7 +82,9 @@ I went to the front desk, and told the person at reception I needed to speak wit
 
 I remained calm, but told her what my concerns were, and what we needed. She offered to bring us over to the Divi Village Golf and Beach Resort, in the central complex where we could talk in person, and they would get us a new room in a more secure location. They ordered one of their golf carts, and took us over. We had a chat, and she was able to get some cash to me after I explained our lack of any access, store our bags, and promised to work on a centrally located room on the 5th floor. Feeling rattled, and tired we took it. On asking about the police, she promised to update them, and work on getting the police report we had been promised.
 
-Tired, and exhausted we decided to put our trust in her, and try to make the best of our final day. Our vacation ruined, and little hope of coming back refreshed we hoped to at least feel reasonably safe and get home without further incident. I pointed out the negligence in the installation of the patio door, and the ease with which it was forced. She promised to look into it, and agreed it wasn't acceptable. We let her know we had photos documenting it, but promised she would investigate and was already in touch with the Divi Resorts headquarters in North Carolina.\
+Tired, and exhausted we decided to put our trust in her, and try to make the best of our final day. Our vacation ruined, and little hope of coming back refreshed we hoped to at least feel reasonably safe and get home without further incident. I pointed out the negligence in the installation of the patio door, and the ease with which it was forced. She promised to look into it, and agreed it wasn't acceptable. We let her know we had photos documenting it, but promised she would investigate and was already in touch with the Divi Resorts headquarters in North Carolina.
+
+![New key card after the break in](/images/divi-door-card.jpg)
 
 When we returned at about 2pm she had new room keys sorted, and got us in a one bedroom penthouse as it was described, it was nice enough, and it was on a high floor giving us some faith that no one would be able to climb to the balcony. After years of traveling, it was horrifying to see how negligently installed the outside door was, and how easily a thief was able to break in as we slept.
 
@@ -102,9 +106,11 @@ Another thing we are left wondering is whether this was an inside job. The fact 
 
 Maybe it was bad luck, and we know it could have been far worse. We are glad that our passports weren't stolen, and that we could get home. We are left feeling like the company isn't interested in making this right, and would rather see if they can ignore it. They were negligent, but we are also having trouble communicating with the police, and it has been suggested that without having signed something the officers who came out did not properly report the crime.
 
-I am not sure what other avenues we have open to us. I am posting this in hopes that others might have suggestions, and if nothing else you can learn from what happened, and hopefully Google will index it should you be searching for similar crimes in the future. Hopefully the Divi Resort company will compensate us, and apologize for their negligence in keeping me and my family safe. Hopefully the person answering the phone at the police station was mistaken, and the promised police report will be sent onto us soon.
+I am not sure what other avenues we have open to us. I am posting this in hopes that others might have suggestions, and if nothing else you can learn from what happened to us. Hopefully Google will index this should you be searching for similar crimes in the future. Hopefully the Divi Resort company will compensate us, and apologize for their negligence in keeping me and my family safe. Hopefully the person answering the phone at the police station was mistaken, and the promised police report will be sent onto us soon.
 
-Be careful out there, I never planned for the possibility of anyone breaking into our room as we slept, and hadn't really secured anything. We could have spread our cards and cash around a little, but at some point you have to place your trust in others, and hope that things turn out alright. It could have been far worse, they didn't get away with much, and we made it home. We are all pretty shaken, and having spent all our money on our worst vacation ever feeling sad to have been the victim of such a crime that leaves you feeling violated and unsafe.
+Be careful out there, I never planned for the possibility of anyone breaking into our room as we slept, and hadn't really secured anything overnight. We could have spread our cards and cash around a little, but at some point you have to place your trust in others, and hope that things turn out alright. It could have been far worse, they didn't get away with much, and we made it home. We are all pretty shaken, and having spent all our vacation budget on our worst vacation ever.
+
+We are feeling sad to have been the victim of such a crime that leaves you feeling violated and unsafe.
 
 [divi-dutch-village]: https://www.diviresorts.com/divi-dutch-village-resort-aruba.htm
 [divi-resorts]: https://www.diviresorts.com/
