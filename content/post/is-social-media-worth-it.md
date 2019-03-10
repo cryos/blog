@@ -2,7 +2,7 @@
 images = ["images/201903-social-media.png"]
 banner = "images/201903-social-media.png"
 menu = ""
-description = "Is social media really worth it, or just a way of net working..."
+description = "Is social media really worth it, or just a way of not working..."
 categories = ["general"]
 tags = ["personal", "social-media"]
 date = "2019-03-10T15:17:10-05:00"
