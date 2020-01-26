@@ -41,12 +41,15 @@ Professionally I think things went well, with big advancements in projects I run
 
 ![Computer bits ready for the new build!](/images/201907-computer-parts.jpg)
 
- I also have the sadly typical goal, I think I have neglected my physical well-being too much the last decade. I need to slim down quite a bit, and integrate healthier eating habits with physical activity. The suburbs of America have been cruel, city kids need to walk because there isn't parking near anything---not so in the suburbs let my waistline tell you! Losing people, some suddenly, some less so, has also made me contemplate that life is for those living it. I will try to embrace more of the opportunities to really live it, do some of the dumb stuff you might shake your head at me for, and worry a little less about the consequences.
+I also have the sadly typical goal, I think I have neglected my physical well-being too much the last decade. I need to slim down quite a bit, and integrate healthier eating habits with physical activity. The suburbs of America have been cruel, city kids need to walk because there isn't parking near anything---not so in the suburbs let my waistline tell you! Losing people, some suddenly, some less so, has also made me contemplate that life is for those living it. I will try to embrace more of the opportunities to really live it, do some of the dumb stuff you might shake your head at me for, and worry a little less about the consequences.
  
- I think the twenties are going to be awesome. I am going to do everything I can to make them be awesome. If you try and drag me down I am probably going to quietly back away, and find others who want to lift us all up. I will endeavor to be one of those people too as I watch my children grow up, and look forward to the possibilities for them. I grew up poor, and never really considered having so much freedom in life and career. I am going to embrace it, and be less afraid to make the most of it not only for me, but my family, and hopefully all of those I encounter.
+I think the twenties are going to be awesome. I am going to do everything I can to make them be awesome. If you try and drag me down I am probably going to quietly back away, and find others who want to lift us all up. I will endeavor to be one of those people too as I watch my children grow up, and look forward to the possibilities for them. I grew up poor, and never really considered having so much freedom in life and career. I am going to embrace it, and be less afraid to make the most of it not only for me, but my family, and hopefully all of those I encounter.
  
- ![Enjoying the summer on my motobike](/images/201907-motorcycle-me.jpg)
+![Enjoying the summer on my motobike](/images/201907-motorcycle-me.jpg)
  
- Also, Star Trek Picard just started, and I couldn't be happier to see him back on TV! As I say goodbye to one decade of my life, and enter the next I am happy and optimistic. Like many out there I have some regrets, some things to really celebrate, and some things to get through. I try to navigate social media, professional life, personal life, and all those grey areas in between as best I can. I once thought I had impostor syndrome, now I realize I am quite legitimately an impostor who never imagined he would live such a life, or make it to such an advanced age :-)
+Also, Star Trek Picard just started, and I couldn't be happier to see him back on TV! As I say goodbye to one decade of my life, and enter the next I am happy and optimistic. Like many out there I have some regrets, some things to really celebrate, and some things to get through. I try to navigate social media, professional life, personal life, and all those grey areas in between as best I can. I once thought I had impostor syndrome, now I realize I am quite legitimately an impostor who never imagined he would live such a life, or make it to such an advanced age :-)
+
+![A whale breach (of of two) we saw in Montery, CA](/images/201909-whale-monterey.jpg)
+
+Live long and prosper!
  
- Live long and prosper!
