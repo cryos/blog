@@ -9,7 +9,7 @@ title = "2020: Looking Back"
 menu = ""
 
 +++
-It is hard to believe that it is 2020 already! It always seemed like such a far off time, one of my favorite movies of all time was 'Blade Runner' set in the far off future---November 2019! Many people posted about their last decade in the new year, but I have always tended to think more about decades on my birthdays which are not far off from the decades passage. Here we are as I reflect on half my life lived in the twentieth century, and half in the twenty first century. Over a decade, the entirety of the last decade, in upstate New York working for my current employer---a long time! If you are good at maths you may have figured out which birthday I am about to celebrate :-)
+It is hard to believe that it is 2020 already! It always seemed like such a far off time, one of my favorite movies of all time was 'Blade Runner' set in the far off future---November 2019! Many people posted about their last decade in the new year, but I have always tended to think more about decades on my birthdays which are not far off from the decade's passage. Here we are as I reflect on half my life lived in the twentieth century, and half in the twenty first century. Over a decade, the entirety of the last decade, in upstate New York working for my current employer---a long time! If you are good at maths you may have figured out which birthday I am about to celebrate :-)
 
 <!--more-->
 
