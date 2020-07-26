@@ -8,7 +8,7 @@ googleAnalytics = "UA-19476290-1"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "hugo-icarus"
 
 [permalinks]
     post = "/:year/:month/:slug"
@@ -23,6 +23,9 @@ theme = "hugo-icarus-theme"
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "images/mhanwell-profile.jpg"
     logo = ""
+
+    # define which types of pages should be shown. By default the type with the most regular pages
+    mainSections = ["post"]
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
@@ -89,7 +92,7 @@ theme = "hugo-icarus-theme"
     stackoverflow   = ""
     reddit          = ""
     pinterest       = ""
-    googleplus      = "MarcusHanwell"
+#    googleplus      = "MarcusHanwell"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
