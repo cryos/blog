@@ -2,7 +2,7 @@ sudo: required
 language: go
 
 go:
-    - "1.7.1"
+    - "1.11.1"
 
 branches:
   only:
@@ -13,13 +13,13 @@ before_script:
 #    - go get -u -v github.com/spf13/hugo
 #- npm install -g firebase-tools
 #    - curl -sL firebase.tools | bash
-    - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.74.3/hugo_0.74.3_Linux-64bit.tar.gz -O /tmp/hugo.tar.gz
     - tar -zxvf /tmp/hugo.tar.gz
-    - export PATH=$PATH:$PWD/hugo_0.19_linux_amd64/
+    - export PATH=$PATH:$PWD/
 
 script:
     - git submodule update --init
-    - hugo_0.19_linux_amd64
+    - hugo
 
 deploy:
     provider: firebase
