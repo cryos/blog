@@ -18,7 +18,7 @@ theme = "hugo-icarus"
 [params]
     # Tell me who you are
     author = "Marcus D. Hanwell"
-    bio = "Open Scientist - Programmer - Blogger"
+    bio = "Programmer - Scientist - Open Source"
     location = "Wading River, NY, USA"
     site_description = "Views my own."
     copyright  = " Marcus D. Hanwell. Powered by [Hugo](//gohugo.io)."
