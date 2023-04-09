@@ -14,8 +14,6 @@ I do a lot of work using [JSON][json] (JavaScript Object Notation), and last wee
 
 <!--more-->
 
-{{< tweet 984196036863262720 >}}
-
 I have had some discussion about this at a few meetings/workshops, and have had a role in defining some RESTful APIs and JSON data container specifications. I was a little surprised by the extremely unscientific poll that garnered 22 votes (interestingly it will not let you vote on your own poll). I worry for the people voting for a mixture of the above, and hope they were just trying to wind me up :-)
 
 ### Languages Using JSON
