@@ -9,6 +9,7 @@ googleAnalytics = "UA-19476290-1"
 paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus"
+#theme = "blowfish"
 
 [permalinks]
     post = "/:year/:month/:slug"
@@ -18,9 +19,9 @@ theme = "hugo-icarus"
     # Tell me who you are
     author = "Marcus D. Hanwell"
     bio = "Open Scientist - Programmer - Blogger"
-    location = "Rexford, NY, USA"
-    site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    location = "Wading River, NY, USA"
+    site_description = "Views my own."
+    copyright  = " Marcus D. Hanwell. Powered by [Hugo](//gohugo.io)."
     avatar = "images/mhanwell-profile.jpg"
     logo = ""
 
@@ -98,7 +99,7 @@ theme = "hugo-icarus"
     twitter_domain  = ""
     googlescholar   = "r65_q0oAAAAJ"
     orcid           = "0000-0002-5851-5272"
-    twitter         = "mhanwell"
+#    twitter         = "mhanwell"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
