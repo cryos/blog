@@ -13,6 +13,8 @@ jobs:
       - run: echo "Starting up the steps to build and deploy the blog."
       - name: Check out repository code
         uses: actions/checkout@v3
+        with:
+          submodules: recursive
       - run: echo "The ${{ github.repository }} repository has been cloned to the runner."
       - name: List files in the repository
         run: |
