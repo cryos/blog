@@ -1,5 +1,5 @@
 +++
-categories = ["general"]
+categories = ["general", "avogadro"]
 tags = ["development"]
 images = ["images/avogadro-ethane-qt6.png"]
 banner = "images/avogadro-ethane-qt6.png"
