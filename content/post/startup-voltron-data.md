@@ -45,7 +45,7 @@ As we wrap up the year I am excited to see what the new year brings now that we 
 
 ![Chopsticks from dinner on Friday](/images/202312-chopsticks.jpg)
 
-From the start of my career I have consistently been sneaking off to write better software as what I had was never good enough to do what I knew needing doing. This is a more extreme case of that same tendency and to do it with an extremely talented team. Best of all they think I have made an impact already, and I have enjoyed doing it! I am extremely grateful to my wife and children supporting me in this journey. Be well!
+From the start of my career I have consistently been sneaking off to write better software as what I had was never good enough to do what I knew needed doing. This is a more extreme case of that same tendency and to do it with an extremely talented team. Best of all they think I have made an impact already, and I have enjoyed doing it! I am extremely grateful to my wife and children supporting me in this journey. Be well!
 
 [voltrondata]: https://voltrondata.com/
 [kitware]: {{< ref "leaving-kitware" >}}
