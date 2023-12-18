@@ -16,6 +16,8 @@ I was a little more purposeful this time in choosing components. The prices of g
 
 One thing I researched a fair bit was parts that were not filled with LEDs! I know, I probably sacrificed thousands of frames per second, but if you look at that photo it is really only the graphics card that has anything lit up. On the other side of it I got a case designed for airflow and I filled it with big fans. I also got a closed loop AIO water cooler for the CPU, I doubt I really need it but I wanted to play with one.
 
+![A glimpse inside mid-build of the PC with the liquid cooling but no GPU yet](/images/202312-inside-pc.jpg)
+
 All in all I was happy with the look, and it came in at mid-to-high end and when I stress the system the thermals look great even when maxing out all of the cores or GPU. It is pretty quiet, and it has the overall black aesthetic I appreciate in my possessions! My son gets the old PC to play with and I can now turn up pretty much everything to max in games at 1440p.
 
 I do have the pain of setting things up again, but I have always liked the periodic cleanse and then only setting up what I need. Dual boot Arch Linux with Windows for games and occasional needs of proprietary crap. I still don't understand how people use Windows as a serious operating system, it seems to get lamer with each release but we all know that Linux never quite went mainstream. I don't think I am all that mainstream though...
