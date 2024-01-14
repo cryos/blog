@@ -10,7 +10,7 @@ description = "My exploration of using C++ modules with CMake and thinking about
 
 +++
 
-I have been thinking about creating a new project for a while, one that abandons a lot of my previous style where I needed to support old compilers, operating systems, etc. I have no idea where this project leads, but it is something of a playground to approach the state-of-the-art as I see it. Using the very latest features in C++, CMake and other parts of the ecosystem. It is targeting my preferred development environment which is a completely up to date Arch Linux desktop and other places may catch up at some point or this may be generalized to work more widely.
+I have been thinking about creating a new project for a while, one that abandons a lot of my previous style where I needed to support old compilers, operating systems, etc. I have no idea where this project leads, but it is something of a playground to approach the state-of-the-art as I see it. Using the latest features in C++, CMake and other parts of the ecosystem. It is targeting my preferred development environment which is a completely up to date Arch Linux desktop and other places may catch up at some point or this may be generalized to work more widely.
 
 Modern?
 -------
@@ -20,7 +20,7 @@ I pondered a little on what means in a few [previous posts][modern] and how quic
 C++ Modules
 -----------
 
-A recent blog post described the new [CMake C++ module support][cmake-modules] being made generally available in the latest 3.28 release. At its core this adds features to a very small subset of generators and compilers to enable the use of the new modules added in the C++20 standard. For the observant among you yes this post is being made in 2024 and the CMake post is from October 2023 and even with a rolling release distro such as Arch Linux is is only just supported using CMake 3.28, ninja 1.11 and clang 16!
+A recent blog post described the new [CMake C++ module support][cmake-modules] being made generally available in the latest 3.28 release. At its core this adds features to a very small subset of generators and compilers to enable the use of the new modules added in the C++20 standard. For the observant among you yes this post is being made in 2024 and the CMake post is from October 2023 and even with a rolling release distro such as Arch Linux it is only just supported using CMake 3.28, ninja 1.11 and clang 16!
 
 Anyway, back to what we want. A new form of C++, a major evolution of the language whereby the way libraries export their interfaces and the way clients consume them changes. This is really why this has taken so long, and whilst I have understood the core concept for years, and worked on some Fortran codes that used modules that many of these concepts are inspired by I wanted to understand the details.
 
