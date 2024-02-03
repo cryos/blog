@@ -1,5 +1,5 @@
 +++
-categories = ["CMake", "C++"]
+categories = ["cmake", "C++"]
 tags = ["development"]
 images = ["images/angohr-fmt.png"]
 banner = "images/angohr-fmt.png"
