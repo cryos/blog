@@ -14,7 +14,7 @@ It is hard to believe my wife and I became naturalized US citizens six years ago
 
 <!--more-->
 
-I wrote over six years about about [my last day as an immigrant][naturalization], and many months later about updating one of the [last remaining things][social-security] getting our social security cards updated. We did all the things including getting passports, registering to vote but spending hours at the social security building was perhaps the one we just kept putting off as that place is no fun!
+I wrote over six years about about [my last day as an immigrant][naturalization], and many months later about updating one of the [last remaining things][social-security]--our social security cards. We did all the things including getting passports, registering to vote but spending hours at the social security building was perhaps the one we just kept putting off as that place is no fun!
 
 ![Selfie of the whole family right after we naturalized](/images/201808-naturalization-selfie.jpg)
 
